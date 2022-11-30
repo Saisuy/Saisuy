@@ -12,10 +12,8 @@ Shell: PowerShell
 Pronouns: He/Him
 Location: Barueri, SP
 Frameworks: React , Angular
-Languages: JavaScript, TypeScript,
-           HTML, CSS
-Learning: Node.js, Express, PostgreSQL,
-         MongoDB, Vue.js
+Languages: JavaScript, TypeScript, TML, CSS
+Learning: Node.js, Express, PostgreSQL, MongoDB, Vue.js  
 Hobbies: Gardening, Cooking, Gaming
 Commits: 243
 Stars: 0
