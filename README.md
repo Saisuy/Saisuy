@@ -15,7 +15,7 @@ Frameworks: React , Angular
 Languages: JavaScript, TypeScript, TML, CSS
 Learning: Node.js, Express, PostgreSQL, MongoDB, Vue.js  
 Hobbies: Gardening, Cooking, Gaming
-Commits: 243
+Commits: 400
 Stars: 0
 Discord: Thiago Cordeiro#6369
 ```
