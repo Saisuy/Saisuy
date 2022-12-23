@@ -2,7 +2,7 @@
 > neofetch
 ```
 
-<img align="left" src="https://i.pinimg.com/564x/a6/70/8b/a6708b46278d036b38415036897d5d0e.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+<img align="left" src="https://i.pinimg.com/564x/2e/e0/c7/2ee0c73e291e6ea0673e4088db3aa122.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
 thiagcordeirodantas@gmail.com
