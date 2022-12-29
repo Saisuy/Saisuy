@@ -8,7 +8,7 @@
 thiagocordeirodantaszx@gmail.com
 -------------------------
 OS: Linux x86_64
-Shell: PowerShell
+Shell: Konsole
 Pronouns: He/Him
 Location: Barueri, SP
 Frameworks: React , Angular
