@@ -7,7 +7,7 @@
 ```csharp
 thiagocordeirodantaszx@gmail.com
 -------------------------
-OS: Linux x86_64
+OS: Windows 10 x86_64
 Shell: Konsole
 Pronouns: He/Him
 Location: Barueri, SP
